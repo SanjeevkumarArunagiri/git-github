@@ -15,3 +15,5 @@ while usr_input.lower() == "yes" or usr_input == "y" or usr_input.lower() =="no"
         break
     print("Do you want to roll the dice again ??")
     usr_input = input("yes or no : ")
+
+    print("its jst for test only...")
